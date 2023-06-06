@@ -9,7 +9,7 @@ $nama_sql = "root";
 $pass_sql = "";
 
 # nama pangkalan data yang anda telah bangunkan selama ini.
-$nama_db = "eKomputer";
+$nama_db = "ekomputer";
 
 # membuka hubungan antara pangkalan data dan sistem.
 $condb = mysqli_connect($nama_host, $nama_sql, $pass_sql, $nama_db);
